@@ -1,5 +1,5 @@
 # DDBB-JARDINERIA
-Base de datos de una negocio basado en la jardinería con los scripts de consultas sobre una tabla, multitabla, externas, subconsulta, resumen y variadas. Un total de 84 consultas resueltas.
+Base de datos de un negocio basado en la jardinería con los scripts de consultas sobre una tabla, multitabla, externas, subconsulta, resumen y variadas. Un total de 84 consultas resueltas.
 
 ## DIAGRAMA E/R
 ![Imagen del diagrama E/R](https://github.com/MCGarcCor/DDBB-JARDINERIA/blob/main/Diagrama.PNG)
